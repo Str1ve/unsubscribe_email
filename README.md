@@ -1,1 +1,1 @@
-# unsubscribe_email
+# python automation project - unsubscribe email
